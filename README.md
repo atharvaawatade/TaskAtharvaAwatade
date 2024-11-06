@@ -28,22 +28,6 @@ wandb==0.15.12
 pyworld==0.3.2
 ```
 
-## Project Structure
-```
-├── datasets/
-│   ├── raw/            # Raw downloaded datasets
-│   └── processed/      # Processed dataset splits
-├── outputs/
-│   ├── checkpoints/    # Model checkpoints
-│   └── logs/          # Training logs
-├── src/
-│   ├── config.py       # Configuration settings
-│   ├── dataset.py      # Dataset processing
-│   ├── model.py        # VITS model implementation
-│   ├── audio.py        # Audio processing utilities
-│   └── train.py        # Training script
-└── README.md
-```
 
 ## Installation
 
