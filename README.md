@@ -2,6 +2,11 @@
 
 ## Project Overview
 This project implements a VITS (Conditional Variational Autoencoder with Adversarial Learning)-based text-to-speech synthesis system for Indian languages. The implementation focuses on Tamil language (configurable to other Indian languages) using the AI4Bharat data corpus.
+![image](https://github.com/user-attachments/assets/0af2f0ff-20bb-4a31-a599-51036e5cafaa)
+![image](https://github.com/user-attachments/assets/eed11ff5-ca99-4a76-8a3e-bdf004c07a3e)
+![image](https://github.com/user-attachments/assets/33cf9e0d-0710-4dfb-b0ff-602ff72ae0f4)
+
+
 
 ## Features
 - Complete VITS architecture implementation for Indian languages
